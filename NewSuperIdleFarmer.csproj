@@ -6,6 +6,8 @@
     <UseWPF>true</UseWPF>
     <AssemblyName>NewSuperIdleFarmer</AssemblyName>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Authors>xoko14</Authors>
+    <Product>New Super Idle Farmer</Product>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
