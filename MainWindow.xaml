@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NewSuperIdleFarmer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="550">
+        Title="New Super Idle Farmer" Height="450" Width="550">
     <Grid>
         <ProgressBar x:Name="progress" HorizontalAlignment="Center" Height="22" Margin="0,341,0,0" VerticalAlignment="Top" Width="494"/>
         <Label x:Name="texto" Content="Veces que deberías cerrar este programa e irte a dormir: 0" HorizontalAlignment="Center" Margin="0,278,0,0" VerticalAlignment="Top" FontSize="18"/>
